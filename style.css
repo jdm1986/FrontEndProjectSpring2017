@@ -1,0 +1,376 @@
+/* General stylesheet / stylesheet for index.html */
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+/*NAV, main photo */
+
+.top-logo {
+  display: block;
+  margin: 17px auto;
+  width: 200px;
+
+}
+
+#main-top {
+  background-color: #CAE8DE;
+}
+
+#main-nav-id {
+  background-color: #CAE8DE;
+
+}
+
+.home-icon {
+  width: 15px;
+  margin: 5px 10px;
+}
+
+.main-nav {
+  display: block;
+  list-style: none;
+
+
+}
+
+.main-nav a {
+  margin: 10px auto;
+  text-decoration: none;
+  font-size: 10px;
+  color: white;
+  display: block;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+
+}
+
+
+.main-nav a:hover {
+  background-color: #74b59d;
+}
+
+#top-photo-home {
+  width: 100%;
+  opacity: 0.95;
+}
+
+
+/* MID PAGE BANNER (Triangle image, ipad, learn more text, sign me up button) */
+/*
+#ipad-link {
+  width: 33.333%;
+}*/
+#triang-cont {
+  position: relative;
+}
+
+#sign-me-up {
+  background-color: #74b59d;
+  font-size: 20px;
+  color: white;
+  padding: 15px;
+  letter-spacing: 3px;
+  border: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#sign-me-up:hover {
+  color: #CAE8DE;
+  cursor: pointer;
+}
+
+#triang {
+  width: 5%;
+  position: absolute;
+  bottom: -5%;
+  right: 50%;
+  z-index: 3;
+
+}
+
+#mid-pg-banner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#mid-pg-banner li {
+  30%;
+}
+
+#mid-text {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#learn {
+  font-size: 25px;
+  font-style: italic;
+}
+
+#get-the {
+  color: #808080;
+}
+
+#bold {
+  font-weight: bold;
+  color: #701370;
+}
+
+#ipad {
+  width: 100%;
+  float: left;
+}
+
+#ipad-pic {
+  width: 30vh;
+}
+
+#learn-p {
+  margin: auto 10px;
+}
+
+#learn {
+  color: #701370;
+}
+
+#mid-pg-banner li {
+  text-decoration: none;
+  list-style: none;
+}
+
+/* END MID PAGE BANNER */
+
+/*White space, graphic links, blog links */
+
+#color-logo {
+  width: 5%;
+  display: block;
+  margin: 50px auto;
+}
+
+.mid-text {
+  margin: 50px auto;
+  width: 60%;
+  color: #808080;
+}
+
+.mid-norm {
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.mid-spec {
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+#spec {
+  color: #701370;
+}
+
+.row-buttons {
+  width: 60%;
+  display: block;
+  margin: 10px auto;
+}
+
+#color-logo-sm {
+  width: 3%;
+  margin: 50px auto;
+  display: block;
+}
+
+/* Blog links */
+
+#feat-blog-posts {
+  font-family: 'Playfair Display', serif;
+  color: #808080;
+  font-style: italic;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+}
+
+#blog-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 75%;
+  margin: auto;
+
+}
+
+.col-buttons {
+  width: 100%;
+  margin: 20px auto;
+}
+
+#blog-buttons a {
+  width: 20%;
+}
+
+/* Social media links */
+
+#soc-media {
+  width: 100%;
+  margin: 40px auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+#soc-media-ul li {
+   list-style: none;
+   display: inline-block;
+   margin: auto 15px;
+   width: 15%;
+   text-align: center;
+ }
+
+#facebook {
+  text-align: right;
+}
+
+/* End social media */
+
+ footer {
+   background-color: #CAE8DE;
+   height: 50px;
+   margin-top: -50px;
+   display: inline-block;
+   width: 100%;
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   color: white;
+ }
+
+/* Addl styles for doctors.html */
+/* Stylesheet for doctors.html */
+
+/*Top-photo, list items down to second photo "Meet Dr. Larisa"*/
+#top-photo-doctors {
+  width: 100%;
+
+}
+
+/*#top-container-doctors {
+  position: relative;
+}*/
+
+#doctors-list-one {
+  margin: -30px auto 20px auto;
+  padding: 10px;
+}
+
+#doctors-list-one ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  flex-direction: column;
+  width: 100%;
+}
+
+/* Copy directly under top photo */
+
+#doctors-page-new {
+  width: 100%;
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  color: #701370;
+  text-align: center;
+}
+
+#italics-doctors-page {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #7F7F7F;
+}
+
+#help-p {
+  width: 80%;
+  margin: auto;
+}
+#how-we-can-help {
+  font-family: 'Montserrat', sans-serif;
+  color: #701370;
+  font-size: 30px;
+
+}
+
+#standard-p-doctors {
+  font-family: 'Montserrat', sans-serif;
+  color: #7F7F7f;
+  font-size: 16px;
+}
+
+#mid-page-dr-div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.double-photos {
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+}
+
+.dr-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #701370;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 10px auto;
+}
+
+.dr-p {
+  width: 50%;
+  font-family: 'Montserrat', sans-serif;
+  color: #7F7F7f;
+  font-size: 12px;
+}
+
+.dr-buttons {
+  width: 50%;
+  margin: 20px auto;
+}
+
+
+
+
+
+ /*Media queries*/
+
+@media (min-width: 860px){
+  .main-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .main-nav a {
+    margin: 20px 10px;
+    flex-wrap: nowrap;
+    letter-spacing: 3px;
+    font-size: 15px;
+  }
+
+  #soc-media-ul li {
+     list-style: none;
+     display: inline-block;
+     width: 15%;
+     margin: auto 10px;
+ }
+
+}

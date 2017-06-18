@@ -1,0 +1,104 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Altius Health Web Design v3.indd
+
+PACKAGE DATE: 6/15/16 3:31 PM
+Creation Date: 6/15/16
+Modification Date: 6/15/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCC2015.InDesignPlugin
+
+
+Non Opaque Objects :On Page1, 2, 3, 4, 5, 6, 7, 8
+
+FONTS
+7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Montserrat-Bold; Type: OpenType TrueType, Status: OK
+- Name: Montserrat-Bold; Type: OpenType TrueType, Status: OK
+- Name: Montserrat-Light; Type: OpenType Type 1, Status: OK
+- Name: Montserrat-Light; Type: OpenType Type 1, Status: OK
+- Name: Montserrat-Regular; Type: OpenType TrueType, Status: OK
+- Name: PlayfairDisplay-Italic; Type: TrueType, Status: OK
+- Name: StorytellerBrush-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 5 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 260 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 293 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 363 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 382 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 4625 C; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 59 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 59 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 px, 0 px, 0 px, 0 px
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Custom: 2000 px x 3000 px
+Paper Dimensions: 0 px x 0 px
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Altius Health Web Design v3.indd; type: Adobe InDesign publication; size: 31620K
+2. Altius Health Web Design v3.idml; type: InDesign Markup Document; size: 4571K
+3. Altius Health Web Design v3.pdf; type: Adobe Acrobat Document; size: 58088K
+4. Montserrat-Bold.ttf; type: Font file; size: 28K
+5. Montserrat-Light.otf; type: Font file; size: 43K
+6. Montserrat-Regular.ttf; type: Font file; size: 28K
+7. PlayfairDisplay-Italic.ttf; type: Font file; size: 170K
+8. StorytellerBrush-Regular.otf; type: Font file; size: 110K
