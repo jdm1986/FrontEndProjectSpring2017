@@ -257,100 +257,197 @@
    color: white;
  }
 
-/* Addl styles for doctors.html */
-/* Stylesheet for doctors.html */
-
-/*Top-photo, list items down to second photo "Meet Dr. Larisa"*/
-#top-photo-doctors {
-  width: 100%;
-
-}
-
-/*#top-container-doctors {
-  position: relative;
-}*/
-
-#doctors-list-one {
-  margin: -30px auto 20px auto;
-  padding: 10px;
-}
-
-#doctors-list-one ul {
-  display: flex;
-  align-items: center;
-  list-style: none;
-  flex-direction: column;
-  width: 100%;
-}
-
-/* Copy directly under top photo */
-
-#doctors-page-new {
-  width: 100%;
-  background-color: white;
-  font-family: 'Montserrat', sans-serif;
-  color: #701370;
-  text-align: center;
-}
-
-#italics-doctors-page {
-  font-family: 'Playfair Display', serif;
-  font-style: italic;
-  color: #7F7F7F;
-}
-
-#help-p {
-  width: 80%;
-  margin: auto;
-}
-#how-we-can-help {
-  font-family: 'Montserrat', sans-serif;
-  color: #701370;
-  font-size: 30px;
-
-}
-
-#standard-p-doctors {
-  font-family: 'Montserrat', sans-serif;
-  color: #7F7F7f;
-  font-size: 16px;
-}
-
-#mid-page-dr-div {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-}
 
 
-.double-photos {
-  width: 50%;
-  display: block;
-  margin: 20px auto;
-}
+ /* Addl styles for doctors.html */
+ /* Stylesheet for doctors.html */
 
-.dr-title {
-  font-family: 'Montserrat', sans-serif;
-  color: #701370;
-  font-size: 16px;
-  text-transform: uppercase;
-  margin: 10px auto;
-}
+ /*Top-photo, list items down to second photo "Meet Dr. Larisa"*/
+ #top-photo-doctors {
+   width: 100%;
 
-.dr-p {
-  width: 50%;
-  font-family: 'Montserrat', sans-serif;
-  color: #7F7F7f;
-  font-size: 12px;
-}
+ }
 
-.dr-buttons {
-  width: 50%;
-  margin: 20px auto;
-}
+ /*#top-container-doctors {
+   position: relative;
+ }*/
 
+ #doctors-list-one {
+   margin: -30px auto 20px auto;
+   padding: 10px;
+ }
+
+ #doctors-list-one ul {
+   display: flex;
+   align-items: center;
+   list-style: none;
+   flex-direction: column;
+   width: 100%;
+ }
+
+ /* Copy directly under top photo */
+
+ #doctors-page-new {
+   width: 100%;
+   background-color: white;
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   text-align: center;
+ }
+
+ #italics-doctors-page {
+   font-family: 'Playfair Display', serif;
+   font-style: italic;
+   color: #7F7F7F;
+ }
+
+ #help-p {
+   width: 80%;
+   margin: auto;
+ }
+ #how-we-can-help {
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   font-size: 30px;
+
+ }
+
+ #standard-p-doctors {
+   font-family: 'Montserrat', sans-serif;
+   color: #7F7F7f;
+   font-size: 16px;
+ }
+
+ #mid-page-dr-div {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+   margin: auto;
+ }
+
+
+ .double-photos {
+   width: 50%;
+   display: block;
+   margin: 20px auto;
+ }
+
+ .dr-title {
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   font-size: 16px;
+   text-transform: uppercase;
+   margin: 10px auto;
+ }
+
+ .dr-p {
+   width: 50%;
+   font-family: 'Montserrat', sans-serif;
+   color: #7F7F7f;
+   font-size: 12px;
+ }
+
+ .dr-buttons {
+   width: 50%;
+   margin: 20px auto;
+ }
+
+ /* Addl styles for altius.html */
+ /* Stylesheet for altius.html */
+
+ /*Top-photo, list items down to second photo "Meet Dr. Larisa"*/
+ #top-photo-altius {
+   width: 100%;
+
+ }
+
+ /*#top-container-doctors {
+   position: relative;
+ }*/
+
+ #doctors-list-one {
+   margin: -30px auto 20px auto;
+   padding: 10px;
+ }
+
+ #doctors-list-one ul {
+   display: flex;
+   align-items: center;
+   list-style: none;
+   flex-direction: column;
+   width: 100%;
+ }
+
+ /* Copy directly under top photo */
+
+ #doctors-page-new {
+   width: 100%;
+   background-color: white;
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   text-align: center;
+ }
+
+ #italics-doctors-page {
+   font-family: 'Playfair Display', serif;
+   font-style: italic;
+   color: #7F7F7F;
+ }
+
+ #help-p {
+   width: 80%;
+   margin: auto;
+ }
+ #how-we-can-help {
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   font-size: 30px;
+
+ }
+
+ #standard-p-doctors {
+   font-family: 'Montserrat', sans-serif;
+   color: #7F7F7f;
+   font-size: 16px;
+ }
+
+ #mid-page-dr-div {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+   margin: auto;
+ }
+
+
+ .double-photos {
+   width: 50%;
+   display: block;
+   margin: 20px auto;
+ }
+
+ .dr-title {
+   font-family: 'Montserrat', sans-serif;
+   color: #701370;
+   font-size: 16px;
+   text-transform: uppercase;
+   margin: 10px auto;
+ }
+
+ .dr-p {
+   width: 50%;
+   font-family: 'Montserrat', sans-serif;
+   color: #7F7F7f;
+   font-size: 12px;
+ }
+
+ .dr-buttons {
+   width: 50%;
+   margin: 20px auto;
+ }
 
 
 
