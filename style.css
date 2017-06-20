@@ -285,7 +285,7 @@
    width: 100%;
  }
 
- /* Copy directly under top photo */
+ /* Copy directly over top photo */
 
  #doctors-page-new {
    width: 100%;
@@ -367,12 +367,13 @@
    position: relative;
  }*/
 
- #doctors-list-one {
+ #altius-list-one {
    margin: -30px auto 20px auto;
    padding: 10px;
+
  }
 
- #doctors-list-one ul {
+ #altius-list-one ul {
    display: flex;
    align-items: center;
    list-style: none;
@@ -380,9 +381,10 @@
    width: 100%;
  }
 
+
  /* Copy directly under top photo */
 
- #doctors-page-new {
+ #altius-page-new {
    width: 100%;
    background-color: white;
    font-family: 'Montserrat', sans-serif;
