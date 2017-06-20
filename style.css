@@ -221,7 +221,7 @@
 
 #soc-media {
   width: 100%;
-  margin: 40px auto;
+  margin: 60px auto;
   display: flex;
   justify-content: center;
 
@@ -230,9 +230,14 @@
 #soc-media-ul li {
    list-style: none;
    display: inline-block;
-   margin: auto 15px;
+   margin: 15px auto;
    width: 15%;
    text-align: center;
+ }
+
+ #soc-media-ul img {
+   margin: 15px 15px;
+   height: 20px;
  }
 
 #facebook {
