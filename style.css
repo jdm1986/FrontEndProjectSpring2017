@@ -50,7 +50,7 @@
 
 
 .main-nav a:hover {
-  background-color: #74b59d;
+  color: #701370;
 }
 
 #top-photo-home {
@@ -414,10 +414,15 @@
    text-align: center;
  }
 
- #italics-doctors-page {
+ #italics-altius-page {
    font-family: 'Playfair Display', serif;
    font-style: italic;
    color: #7F7F7F;
+ }
+
+ #mid-pg-banner-altius {
+
+
  }
 
  #help-p {
@@ -431,48 +436,11 @@
 
  }
 
- #standard-p-doctors {
+ #standard-p-altius {
    font-family: 'Montserrat', sans-serif;
    color: #7F7F7f;
    font-size: 16px;
  }
-
- #mid-page-dr-div {
-   width: 100%;
-   display: flex;
-   align-items: center;
-   flex-direction: column;
-   justify-content: center;
-   margin: auto;
- }
-
-
- .double-photos {
-   width: 50%;
-   display: block;
-   margin: 20px auto;
- }
-
- .dr-title {
-   font-family: 'Montserrat', sans-serif;
-   color: #701370;
-   font-size: 16px;
-   text-transform: uppercase;
-   margin: 10px auto;
- }
-
- .dr-p {
-   width: 50%;
-   font-family: 'Montserrat', sans-serif;
-   color: #7F7F7f;
-   font-size: 12px;
- }
-
- .dr-buttons {
-   width: 50%;
-   margin: 20px auto;
- }
-
 
 
 
