@@ -352,13 +352,35 @@
  /* Addl styles for altius.html */
  /* Stylesheet for altius.html */
 
- /*Top-photo, list items down to second photo "Meet Dr. Larisa"*/
- #top-photo-altius {
-   width: 100%;
+ /*Top-photo, altius slider"*/
+ .slider {
+ 	width: 1024px;
+ 	margin: 2em auto;
 
  }
 
- /*#top-container-doctors {
+ .slider-wrapper {
+ 	width: 100%;
+ 	height: 400px;
+ 	position: relative;
+ }
+
+ .slide {
+ 	float: left;
+ 	position: absolute;
+ 	width: 100%;
+ 	height: 100%;
+ 	opacity: 0;
+ 	transition: opacity 3s linear;
+ }
+
+ .slider-wrapper > .slide:first-child {
+ 	opacity: 1;
+ }
+
+ }
+
+ /*#top-container-altius {
    position: relative;
  }*/
 
