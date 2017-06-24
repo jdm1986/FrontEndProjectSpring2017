@@ -357,33 +357,25 @@
  /* Addl styles for altius.html */
  /* Stylesheet for altius.html */
 
- /*Top-photo, altius slider"*/
- .slider {
- 	width: 1024px;
- 	margin: 2em auto;
+ /*Top-photo, altius*/
+ #top-photo-altius {
+   width: 100%;
 
  }
 
- .slider-wrapper {
- 	width: 100%;
- 	height: 400px;
- 	position: relative;
+ #altius-list-one {
+   margin: -30px auto 20px auto;
+   padding: 10px;
  }
 
- .slide {
- 	float: left;
- 	position: absolute;
- 	width: 100%;
- 	height: 100%;
- 	opacity: 0;
- 	transition: opacity 3s linear;
+ #altius-list-one ul {
+   display: flex;
+   align-items: center;
+   list-style: none;
+   flex-direction: column;
+   width: 100%;
  }
 
- .slider-wrapper > .slide:first-child {
- 	opacity: 1;
- }
-
- }
 
  /*#top-container-altius {
    position: relative;
@@ -412,6 +404,7 @@
    font-family: 'Montserrat', sans-serif;
    color: #701370;
    text-align: center;
+
  }
 
  #italics-altius-page {
@@ -420,10 +413,6 @@
    color: #7F7F7F;
  }
 
- #mid-pg-banner-altius {
-
-
- }
 
  #help-p {
    width: 80%;
@@ -442,7 +431,23 @@
    font-size: 16px;
  }
 
+/*Addl styles for appointments.html*/
+#top-photo-appt {
+  width: 100%;
 
+}
+form {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+  font-family: 'Montserrat', sans-serif;
+}
+
+form div {
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+
+}
 
  /*Media queries*/
 
