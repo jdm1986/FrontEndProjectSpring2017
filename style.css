@@ -53,6 +53,10 @@
   color: #701370;
 }
 
+.home-icon a:hover {
+  color: #701370;
+}
+
 #top-photo-home {
   width: 100%;
   opacity: 0.95;
@@ -64,15 +68,13 @@
 #ipad-link {
   width: 33.333%;
 }*/
-#triang-cont {
-  position: relative;
-}
 
 #sign-me-up {
   background-color: #74b59d;
   font-size: 20px;
   color: white;
   padding: 15px;
+  margin: 15px;
   letter-spacing: 3px;
   border: none;
   font-family: 'Montserrat', sans-serif;
@@ -83,14 +85,6 @@
   cursor: pointer;
 }
 
-#triang {
-  width: 5%;
-  position: absolute;
-  bottom: -5%;
-  right: 50%;
-  z-index: 3;
-
-}
 
 #mid-pg-banner {
   display: flex;
@@ -107,7 +101,7 @@
 }
 
 #learn {
-  font-size: 25px;
+  font-size: 15px;
   font-style: italic;
 }
 
@@ -305,7 +299,8 @@
    width: 80%;
    margin: auto;
  }
- #how-we-can-help {
+
+ .how-we-can-help {
    font-family: 'Montserrat', sans-serif;
    color: #701370;
    font-size: 30px;
@@ -456,6 +451,10 @@ form div {
     display: flex;
     justify-content: space-around;
     align-items: center;
+  }
+
+  #learn {
+    font-size: 25px;
   }
 
   .main-nav a {
