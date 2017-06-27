@@ -9,8 +9,9 @@
 
 .top-logo {
   display: block;
-  margin: 17px auto;
+
   width: 200px;
+  margin: 17px auto;
 
 }
 
@@ -30,20 +31,25 @@
 
 .main-nav {
   display: block;
+
   list-style: none;
 
 
 }
 
 .main-nav a {
-  margin: 10px auto;
-  text-decoration: none;
-  font-size: 10px;
-  color: white;
   display: block;
+
+  margin: 10px auto;
+
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
   letter-spacing: 3px;
+
+  color: white;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
   font-size: 20px;
 
 }
@@ -59,6 +65,7 @@
 
 #top-photo-home {
   width: 100%;
+
   opacity: 0.95;
 }
 
@@ -70,14 +77,18 @@
 }*/
 
 #sign-me-up {
-  background-color: #74b59d;
-  font-size: 20px;
-  color: white;
-  padding: 15px;
   margin: 15px;
+  padding: 15px;
+
   letter-spacing: 3px;
+
+  color: white;
   border: none;
+
+  background-color: #74b59d;
+
   font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
 
 #sign-me-up:hover {
@@ -88,6 +99,7 @@
 
 #mid-pg-banner {
   display: flex;
+
   justify-content: space-around;
   align-items: center;
 }
@@ -110,13 +122,15 @@
 }
 
 #bold {
-  font-weight: bold;
   color: #701370;
+
+  font-weight: bold;
 }
 
 #ipad {
-  width: 100%;
   float: left;
+
+  width: 100%;
 }
 
 #ipad-pic {
@@ -132,8 +146,9 @@
 }
 
 #mid-pg-banner li {
-  text-decoration: none;
   list-style: none;
+
+  text-decoration: none;
 }
 
 /* END MID PAGE BANNER */
@@ -141,14 +156,17 @@
 /*White space, graphic links, blog links */
 
 #color-logo {
-  width: 5%;
   display: block;
+
+  width: 5%;
   margin: 50px auto;
 }
 
 .mid-text {
-  margin: 50px auto;
   width: 60%;
+
+  margin: 50px auto;
+
   color: #808080;
 }
 
@@ -159,11 +177,13 @@
 }
 
 .mid-spec {
-  font-size: 28px;
-  font-style: italic;
-  font-weight: bold;
-  font-family: 'Playfair Display', serif;
   text-align: center;
+
+  font-family: 'Playfair Display', serif;
+
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 #spec {
@@ -171,34 +191,41 @@
 }
 
 .row-buttons {
-  width: 60%;
   display: block;
+
+  width: 60%;
   margin: 10px auto;
 }
 
 #color-logo-sm {
+  display: block;
+
   width: 3%;
   margin: 50px auto;
-  display: block;
 }
 
 /* Blog links */
 
 #feat-blog-posts {
-  font-family: 'Playfair Display', serif;
-  color: #808080;
-  font-style: italic;
   margin: auto;
+
   text-align: center;
+
+  color: #808080;
+
+  font-family: 'Playfair Display', serif;
   font-size: 20px;
+  font-style: italic;
 }
 
 #blog-buttons {
   display: flex;
-  align-items: center;
-  justify-content: space-around;
+
   width: 75%;
   margin: auto;
+
+  align-items: center;
+  justify-content: space-around;
 
 }
 
@@ -214,18 +241,23 @@
 /* Social media links */
 
 #soc-media {
+  display: flex;
+
   width: 100%;
   margin: 60px auto;
-  display: flex;
+
   justify-content: center;
 
 }
 
 #soc-media-ul li {
-   list-style: none;
    display: inline-block;
-   margin: 15px auto;
+
    width: 15%;
+   margin: 15px auto;
+
+   list-style: none;
+
    text-align: center;
  }
 
@@ -241,14 +273,19 @@
 /* End social media */
 
  footer {
-   background-color: #CAE8DE;
+   display: inline-block;
+
+   width: 100%;
    height: 50px;
    margin-top: -50px;
-   display: inline-block;
-   width: 100%;
-   font-family: 'Montserrat', sans-serif;
+
    text-align: center;
+
    color: white;
+
+   background-color: #CAE8DE;
+
+   font-family: 'Montserrat', sans-serif;
  }
 
 
@@ -273,26 +310,33 @@
 
  #doctors-list-one ul {
    display: flex;
-   align-items: center;
-   list-style: none;
    flex-direction: column;
+
    width: 100%;
+
+   list-style: none;
+
+   align-items: center;
  }
 
  /* Copy directly over top photo */
 
  #doctors-page-new {
    width: 100%;
-   background-color: white;
-   font-family: 'Montserrat', sans-serif;
-   color: #701370;
+
    text-align: center;
+
+   color: #701370;
+   background-color: white;
+
+   font-family: 'Montserrat', sans-serif;
  }
 
  #italics-doctors-page {
+   color: #7F7F7F;
+
    font-family: 'Playfair Display', serif;
    font-style: italic;
-   color: #7F7F7F;
  }
 
  #help-p {
@@ -301,46 +345,56 @@
  }
 
  .how-we-can-help {
-   font-family: 'Montserrat', sans-serif;
    color: #701370;
+
+   font-family: 'Montserrat', sans-serif;
    font-size: 30px;
 
  }
 
  #standard-p-doctors {
-   font-family: 'Montserrat', sans-serif;
    color: #7F7F7f;
+
+   font-family: 'Montserrat', sans-serif;
    font-size: 16px;
  }
 
  #mid-page-dr-div {
-   width: 100%;
    display: flex;
-   align-items: center;
    flex-direction: column;
-   justify-content: center;
+
+   width: 100%;
    margin: auto;
+
+   align-items: center;
+   justify-content: center;
  }
 
 
  .double-photos {
-   width: 50%;
    display: block;
+
+   width: 50%;
    margin: 20px auto;
  }
 
  .dr-title {
-   font-family: 'Montserrat', sans-serif;
-   color: #701370;
-   font-size: 16px;
-   text-transform: uppercase;
    margin: 10px auto;
+
+   text-transform: uppercase;
+
+   color: #701370;
+
+   font-family: 'Montserrat', sans-serif;
+   font-size: 16px;
  }
 
  .dr-p {
    width: 50%;
-   font-family: 'Montserrat', sans-serif;
+
    color: #7F7F7f;
+
+   font-family: 'Montserrat', sans-serif;
    font-size: 12px;
  }
 
@@ -365,10 +419,13 @@
 
  #altius-list-one ul {
    display: flex;
-   align-items: center;
-   list-style: none;
    flex-direction: column;
+
    width: 100%;
+
+   list-style: none;
+
+   align-items: center;
  }
 
 
@@ -384,10 +441,13 @@
 
  #altius-list-one ul {
    display: flex;
-   align-items: center;
-   list-style: none;
    flex-direction: column;
+
    width: 100%;
+
+   list-style: none;
+
+   align-items: center;
  }
 
 
@@ -395,17 +455,21 @@
 
  #altius-page-new {
    width: 100%;
-   background-color: white;
-   font-family: 'Montserrat', sans-serif;
-   color: #701370;
+
    text-align: center;
+
+   color: #701370;
+   background-color: white;
+
+   font-family: 'Montserrat', sans-serif;
 
  }
 
  #italics-altius-page {
+   color: #7F7F7F;
+
    font-family: 'Playfair Display', serif;
    font-style: italic;
-   color: #7F7F7F;
  }
 
 
@@ -413,16 +477,19 @@
    width: 80%;
    margin: auto;
  }
+
  #how-we-can-help {
-   font-family: 'Montserrat', sans-serif;
    color: #701370;
+
+   font-family: 'Montserrat', sans-serif;
    font-size: 30px;
 
  }
 
  #standard-p-altius {
-   font-family: 'Montserrat', sans-serif;
    color: #7F7F7f;
+
+   font-family: 'Montserrat', sans-serif;
    font-size: 16px;
  }
 
@@ -433,14 +500,17 @@
 }
 form {
   display: flex;
-  align-items: flex-end;
   flex-direction: row;
+
   font-family: 'Montserrat', sans-serif;
+
+  align-items: flex-end;
 }
 
 form div {
-  font-family: 'Montserrat', sans-serif;
   margin: auto;
+
+  font-family: 'Montserrat', sans-serif;
 
 }
 
@@ -449,6 +519,7 @@ form div {
 @media (min-width: 860px){
   .main-nav {
     display: flex;
+
     justify-content: space-around;
     align-items: center;
   }
@@ -459,16 +530,21 @@ form div {
 
   .main-nav a {
     margin: 20px 10px;
-    flex-wrap: nowrap;
+
     letter-spacing: 3px;
+
     font-size: 15px;
+
+    flex-wrap: nowrap;
   }
 
   #soc-media-ul li {
-     list-style: none;
      display: inline-block;
+
      width: 15%;
      margin: auto 10px;
+
+     list-style: none;
  }
 
 }
