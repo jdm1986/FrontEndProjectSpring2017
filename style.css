@@ -350,6 +350,16 @@
    justify-content: center;
  }
 
+.book-dr {
+  display: block;
+  margin: 20px auto;
+
+}
+
+.book-dr img {
+  margin: 0 auto;
+  display: block;
+}
 
  .double-photos {
    display: block;
