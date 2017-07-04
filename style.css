@@ -399,7 +399,6 @@
  /*Top-photo, altius*/
  #top-photo-altius {
    width: 100%;
-
  }
 
  #altius-list-one {
@@ -473,6 +472,17 @@
 
    font-family: 'Montserrat', sans-serif;
    font-size: 16px;
+ }
+
+ #altius-p-list {
+   width: 60%;
+   display: flex;
+   list-style: none;
+   flex-direction: column;
+ }
+
+ #altius-p-list li {
+   margin: auto 20px;
  }
 
 /*Addl styles for appointments.html*/
