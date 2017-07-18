@@ -2,6 +2,7 @@
 
 ***Javascript is included in the form at the bottom of the appointments.html page for validation (and keywords are used within the html tags of the various fields that need validation), and in altius.js (which was ultimately not implemented, and was not "from scratch" anyway).
 
+Naturally, first open index.html, and all the other html files can be accessed from that page. 
 
 This project is based off of an Indesign mockup of a website designed for a client of my wife's. My wife, Jessica Suhr, is a graphic designer, but not a web developer. She typically sends the mockups to a web dev. She designed the mockup for this site, and a week later the company was sold. I am unsure how far the web devs actually got on the site, but I believe it was live for about a week.
 
